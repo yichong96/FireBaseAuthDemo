@@ -20,10 +20,6 @@ import com.google.firebase.auth.FirebaseAuth;
 
 public class LoginActivity extends AppCompatActivity implements View.OnClickListener{
 
-    // add new test
-    //Y(OOOOOOOOOo
-    //zzzzzzzzz
-
     private Button buttonSignIn;
     private EditText editTextEmail;
     private EditText editTextPassword;
