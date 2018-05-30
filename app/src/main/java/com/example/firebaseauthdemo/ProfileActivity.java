@@ -18,7 +18,9 @@ import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
-public class ProfileActivity extends AppCompatActivity implements View.OnClickListener{
+public class ProfileActivity extends AppCompatActivity implements View.OnClickListener {
+
+    // add comment 
 
     private FirebaseAuth firebaseAuth;
 
