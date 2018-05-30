@@ -21,7 +21,7 @@ import com.google.firebase.database.FirebaseDatabase;
 public class ProfileActivity extends AppCompatActivity implements View.OnClickListener {
 
     // add comment
-    // add  comment1 
+    // add  comment1
 
     private FirebaseAuth firebaseAuth;
 
