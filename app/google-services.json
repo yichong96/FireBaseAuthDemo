@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "563760161784",
+    "firebase_url": "https://fir-authapp-464da.firebaseio.com",
+    "project_id": "fir-authapp-464da",
+    "storage_bucket": "fir-authapp-464da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563760161784:android:21bd47c110b042a4",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563760161784-sp15qo532g25t2al2i406ro7ek44pih4.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "563760161784-sp15qo532g25t2al2i406ro7ek44pih4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5HtHmK1XsEAFeby23Q8hDAamVzOnMNeM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
